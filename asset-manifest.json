@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nehav9311.github.io/csb-92f2r/static/css/main.28db0e4a.chunk.css",
+    "main.js": "https://nehav9311.github.io/csb-92f2r/static/js/main.1ea78c4f.chunk.js",
+    "main.js.map": "https://nehav9311.github.io/csb-92f2r/static/js/main.1ea78c4f.chunk.js.map",
+    "runtime-main.js": "https://nehav9311.github.io/csb-92f2r/static/js/runtime-main.42c648ef.js",
+    "runtime-main.js.map": "https://nehav9311.github.io/csb-92f2r/static/js/runtime-main.42c648ef.js.map",
+    "static/js/2.ce721c55.chunk.js": "https://nehav9311.github.io/csb-92f2r/static/js/2.ce721c55.chunk.js",
+    "static/js/2.ce721c55.chunk.js.map": "https://nehav9311.github.io/csb-92f2r/static/js/2.ce721c55.chunk.js.map",
+    "index.html": "https://nehav9311.github.io/csb-92f2r/index.html",
+    "static/css/main.28db0e4a.chunk.css.map": "https://nehav9311.github.io/csb-92f2r/static/css/main.28db0e4a.chunk.css.map",
+    "static/js/2.ce721c55.chunk.js.LICENSE.txt": "https://nehav9311.github.io/csb-92f2r/static/js/2.ce721c55.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42c648ef.js",
+    "static/js/2.ce721c55.chunk.js",
+    "static/css/main.28db0e4a.chunk.css",
+    "static/js/main.1ea78c4f.chunk.js"
+  ]
+}
